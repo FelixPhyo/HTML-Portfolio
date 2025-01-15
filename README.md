@@ -1,2 +1,2 @@
-# HTML-Portfolio
+# Portfolio
 Small Projects
